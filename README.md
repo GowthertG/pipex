@@ -26,3 +26,4 @@ $> ./pipex here_doc LIMITER cmd1 cmd2 file2
 ```
 
 ### Evaluated by moulinette
+![125/100](img/125.png)
