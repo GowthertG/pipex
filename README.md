@@ -26,4 +26,4 @@ $> ./pipex here_doc LIMITER cmd1 cmd2 file2
 ```
 
 ### Evaluated by moulinette
-![125/100](Screen Shot 2023-01-03 at 3.19.26 AM.png)
+![125/100](https://github.com/GowthertG/pipex/blob/main/Screen%20Shot%202023-01-03%20at%203.19.26%20AM.png)
