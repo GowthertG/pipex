@@ -24,6 +24,6 @@ $> ./pipex file1 cmd1 cmd2 cmd3 ... cmdn file2
 ```
 $> ./pipex here_doc LIMITER cmd1 cmd2 file2
 ```
-
 ### Evaluated by moulinette
-![125/100](https://github.com/GowthertG/pipex/blob/main/Screen%20Shot%202023-01-03%20at%203.19.26%20AM.png)
+```
+<img src="https://github.com/GowthertG/pipex/blob/main/note.png" width="200">
